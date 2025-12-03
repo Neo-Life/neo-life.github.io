@@ -1,8 +1,3 @@
----
-title: NeoLife
-layout: default
----
-
 > Obscuranimacarmen is an unforgettable, exquisite prologue poem that weaves themes of rebirth and hope through the shadowed depths of the soul.
 
 ## Neo Life | A Cherished Thing of the Past
@@ -29,3 +24,8 @@ Yet, the story does not end here.
 For new chapters and fresh stories are waiting ahead, ready to unfold.  
 
 ​This, too, is the reason it is named NeoLife.
+
+---
+
+ - [AstrBot Plugins Market](https://neo-life.wenturc.com/aaa-neko)
+ - [AstrBot Future Landing Page](http://neo-life.wenturc.com/cbb-lover)
