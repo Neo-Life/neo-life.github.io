@@ -27,5 +27,5 @@ For new chapters and fresh stories are waiting ahead, ready to unfold.
 
 ---
 
- - [AstrBot Old Plugins Market](https://neo-life.wenturc.com/aaa_neko)
- - [AstrBot Future Landing Page](http://neo-life.wenturc.com/cbb_lover)
+ - [AstrBot Old Plugins Market](https://neo-life.wenturc.com/AAA_Neko/)
+ - [AstrBot Future Landing Page](https://neo-life.wenturc.com/CBB_Lover/)
