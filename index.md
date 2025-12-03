@@ -1,3 +1,8 @@
+---
+title: NeoLife
+layout: default
+---
+
 > Obscuranimacarmen is an unforgettable, exquisite prologue poem that weaves themes of rebirth and hope through the shadowed depths of the soul.
 
 ## Neo Life | A Cherished Thing of the Past
